@@ -79,11 +79,14 @@ ionic serve
 
 ### 13. view in mobile dev app
 - install devapp via appstore or sms link 
-![dev app](https://ionicframework.com/docs/pro/devapp/)
+[dev app](https://ionicframework.com/docs/pro/devapp/)
 - open app in phone. make sure on same network and it will listen and auto load app
 ```
 ionic serve -c
 ```
+![screenshot](img/IMG_4917.PNG)
+![screenshot](img/IMG_4918.PNG)
+
 
 
 
