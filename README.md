@@ -1,7 +1,7 @@
 # ionic setup on osx
 
 ### 1. install Node.js
-[osx install](http://osxdaily.com/2018/06/29/how-install-nodejs-npm-mac/)
+[install on osx](http://osxdaily.com/2018/06/29/how-install-nodejs-npm-mac/)
 ```
 brew update
 brew install node
