@@ -75,7 +75,7 @@ git commit -m "simple changes to tabs"
 git push ionic master
 ionic serve
 ```
-
+![screenshot](img/Screen%20Shot%202018-09-17%20at%209.39.36%20AM.png)
 
 
 
