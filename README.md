@@ -55,6 +55,27 @@ Open browser & navigate to http://localhost:8100/
 https://dashboard.ionicframework.com/apps
 ```
 ![screenshot](img/Screen%20Shot%202018-09-17%20at%209.18.19%20AM.png)
+### 11. Make simple changes to about.html and push to ionic master
+```
+project/src/pages/about
+project/src/pages/tabs
+```
+```
+<ion-tabs>
+    <ion-tab [root]="tab1Root" tabTitle="Home" tabIcon="home"></ion-tab>
+    <ion-tab [root]="tab2Root" tabTitle="Gallery" tabIcon="images"></ion-tab>
+    <ion-tab [root]="tab3Root" tabTitle="Contact" tabIcon="contacts"></ion-tab>
+    <ion-tab [root]="tab4Root" tabTitle="About" tabIcon="information-circle"></ion-tab>
+</ion-tabs>
+```
+### 12. commit & view changes
+```
+git add .
+git commit -m "simple changes to tabs"
+git push ionic master
+ionic serve
+```
+
 
 
 
