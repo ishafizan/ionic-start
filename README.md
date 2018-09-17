@@ -77,6 +77,14 @@ ionic serve
 ```
 ![screenshot](img/Screen%20Shot%202018-09-17%20at%209.39.36%20AM.png)
 
+### 13. view in mobile dev app
+- install devapp via appstore or sms link 
+![dev app](https://ionicframework.com/docs/pro/devapp/)
+- open app in phone. make sure on same network and it will listen and auto load app
+```
+ionic serve -c
+```
+
 
 
 
