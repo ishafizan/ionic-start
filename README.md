@@ -18,6 +18,10 @@ node -v
 ```
 sudo npm install -g ionic
 ```
+option install bower as some templates need this
+```
+npm install -g bower
+```
 ### 5. create NEW app
 Next, create an Ionic app using “Tabs” app template. This starter project comes complete with three pre-built pages and best practices for Ionic development. With common building blocks already in place, we can add more features easily
 ```
