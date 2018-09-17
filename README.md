@@ -45,11 +45,11 @@ git push ionic master
 ### 8. Run app
 ```
 ionic serve
+[INFO] Development server running!
+[INFO] Browser window opened to http://localhost:8100!
 ```
 ### 9. View in browser
-```
-http://localhost:8100/
-```
+Open browser & navigate to http://localhost:8100/
 ### 10. View in ionic dashboard
 ```
 https://dashboard.ionicframework.com/apps
