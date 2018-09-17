@@ -33,7 +33,7 @@ ionic start photo-gallery tabs
 ```
 cd photo-gallery/
 ```
-[dir structure](img/Screen%20Shot%202018-09-17%20at%209.03.56%20AM.png)
+![dir structure](img/Screen%20Shot%202018-09-17%20at%209.03.56%20AM.png)
 
 
 
